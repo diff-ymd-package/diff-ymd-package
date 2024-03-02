@@ -381,6 +381,10 @@ For more details about what has changed in each version of this project.
 
 [See CHANGELOG](https://github.com/farhan7reza7/diff-ymd-package/blob/main/CHANGELOG.md)
 
+## External Links
+- [See diff-ymd-package live doc](https://diff-ymd-package.github.io/diff-ymd-package/)
+- [See diff-ymd-package wiki](https://github.com/farhan7reza7/diff-ymd-package/wiki)
+
 [npm-image]: https://img.shields.io/npm/v/diff-ymd-package
 [npm-url]: https://www.npmjs.com/package/diff-ymd-package
 [npm-ci-image]: https://github.com/farhan7reza7/diff-ymd-package/actions/workflows/npm-publish-npm-registry.yml/badge.svg
