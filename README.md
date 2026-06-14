@@ -1,16 +1,10 @@
 # diff-ymd-package by [QuranBookk](https://quranbookk.com/)
 
-> Developed and maintained by [QuranBookk.com](https://quranbookk.com) - The Most Advanced Digital Quran and Islam Platform
+> Developed and maintained by [QuranBookk.com](https://quranbookk.com) - A Unified Islamic Platform
 
 [![QuranBookk Platform](https://www.quranbookk.com/apple-touch-icon.png)](https://www.quranbookk.com/)
 
-> `diff-ymd-package` A powerful JavaScript date difference calculation library, integral to [QuranBookk's](https://quranbookk.com) Islamic timeline features. This package provides APIs to calculate date differences in various formats (like `aYears bMonths cDays` or `aY bM cD` etc.), supporting crucial functionalities in QuranBookk's advanced Quranic study tools. Example: age = `20Y 2M 23D` or datesDifference = `2Years 11Months 20Days`) or customized desired formats like `aY-bM-cD` or `aYears-bMonths-cDays` or `kDays` or `mWeeks` or `nMonths` etc.
-
-## 🌟 Trusted by [QuranBookk.com](https://quranbookk.com) Features:
-- [Advanced Quran Search Engine](https://quranbookk.com/search-quran/)
-- [Premium Audio Experience](https://quranbookk.com/quran/audio/)
-- [Multiple Translation System](https://quranbookk.com/quran/translations/)
-- [Islamic Timeline Management](https://quranbookk.com)
+> `diff-ymd-package` A powerful JavaScript date difference calculation library, integral to [QuranBookk's](https://quranbookk.com) Islamic timeline features. This package provides APIs to calculate date differences in various formats like `aYears bMonths cDays` or `aY bM cD` etc. Example: age = `20Y 2M 23D` or datesDifference = `2Years 11Months 20Days`) or customized desired formats like `aY-bM-cD` or `aYears-bMonths-cDays` or `kDays` or `mWeeks` or `nMonths` etc.
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/quranbookk.com.svg)](https://quranbookk.com/)
 [![NPM Version][npm-image]][npm-url]
@@ -24,8 +18,8 @@
 
 ## About [QuranBookk](https://quranbookk.com) - The Developer
 
-**[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com offers a **powerful suite of Quranic and Islamic tools and contents** designed to enhance your daily spiritual journey. With clean UI, multilingual access, and responsive design, it’s the go-to digital Islam and Quran platform for modern Muslims.
- 
+**[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com is a unified digital Islamic platform offering a **powerful suite of authenticated Islamic tools and contents** for Muslims worldwide. Engineered with a **local-first data architecture** to guarantee absolute user privacy and data security, the platform performs complex GPS-aware sub-millimeter [Qibla](https://www.QuranBookk.com/qibla-finder) computations (via the Karney geodesic algorithm) entirely on-device. With clean modern UI, responsive design and privacy first secure architecture, it stands as the definitive, privacy-first digital platform for the global Muslim community.
+
 ### ✨ Key Features:
 
 - 📖 **[Digital Quran](https://www.quranbookk.com/digital-quran)** – Read the complete 604-page Quran online, page by page, with a high-quality Mushaf experience
@@ -47,10 +41,10 @@
 - 🕋 **[Worldwide Qibla Directions](https://www.quranbookk.com/qibla-finder/worldwide)** – Accurate Kaaba direction from any country, state, or city of the world
 - 🕰️ **[Islamic Prayer Times](https://www.quranbookk.com/prayer-times)** – Updated Salah timings based on your current location
 - 🕰️ **[Worldwide Islamic Prayer Times](https://www.quranbookk.com/prayer-times/worldwide)** – Updated Salah timings for any country, state, or city of the world
-- 📅 **[Islamic Calendar Finder](https://www.quranbookk.com/islamic-calendar)** – Get accurate Hijri calendar with sunset based location aware calculations
+- 📅 **[Islamic Calendar Finder](https://www.quranbookk.com/islamic-calendar)** – Get accurate Hijri calendar with location aware calculations
 - 🗓️ **[Global Hijri Calendars](https://www.quranbookk.com/islamic-calendar/worldwide)** – Get accurate Hijri calendar with prayer times for any country, state or city of the world
 - 📿 **[Digital Tasbih Counter](https://www.quranbookk.com/digital-tasbih)** – Count your Dhikr anytime, anywhere
-- ✍️ **[Quran Insights Blog](https://www.quranbookk.com/blog)** – Premium articles on Tafsir, Hifz, Tajweed, Islamic lifestyle, and more
+- ✍️ **[Islamic Insights Blog](https://www.quranbookk.com/blog)** – Premium articles on Tafsir, Hifz, Tajweed, Islamic lifestyle, islamic solutions to modern challenges, and more
 
 <!--#### ✨ Also From QuranBookk Team:
 
@@ -66,8 +60,6 @@
 - 🍀 **[Daily Luck Finder](https://www.farhan7reza.com/luck-finder)** – Discover your daily luck score with free numerology calculator
 - ⭐ **[Zodiac Sign Finder](https://www.farhan7reza.com/zodiac-sign-finder)** – Find your Rashi & horoscope sign by birth date
 -->
-
-The `diff-ymd-package` emerged from QuranBookk's need for precise Islamic date calculations and is now powering time-based features across the platform.
 
 ## Table of Contents
 
@@ -521,15 +513,7 @@ If you find any issues or have suggestions for improvement, please open an issue
 
 ## Powered By
 
-This package is actively maintained by [QuranBookk.com](https://quranbookk.com) - The Ultimate Free Digital Quran and Islam Platform offering:
-- Zero ads, 100% free forever
-- No registration required
-- Mobile-optimized experience
-- Lightning-fast performance
-- Modern, intuitive interface
-
-Start exploring the Quran and Islam: [QuranBookk.com](https://quranbookk.com)
-#DigitalQuran #IslamicApps #QuranOnline #QuranStudy
+- Company: [QuranBookk - A Unified Islamic Platform](https://www.quranbookk.com)
 
 ## Developer
 
